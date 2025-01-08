@@ -82,8 +82,7 @@ extension_services:
             ui.advisory.text: BIG-IP Quickstart
           My_Provisioning:
             class: Provision
-            asm: nominal
-            ltm: nominal
+            gtm: nominal
           My_Ntp:
             class: NTP
             servers:
